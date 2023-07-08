@@ -1,1 +1,1 @@
-# cat_photo_app
+# Cat Photo App
